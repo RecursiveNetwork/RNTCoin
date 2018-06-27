@@ -9,11 +9,6 @@ payments to anyone, anywhere in the world. RNTCoin uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
 are carried out collectively by the network. 
 
-Protocol Documentation - 0.12.1
-=====================================
-
-This document describes the protocol extensions for all additional functionality build into the RNTCoin protocol. This doesn't include any of the Bitcoin protocol, which has been left intact in the RNTCoin project. For more information about the core protocol, please see https://en.bitcoin.it/w/index.php?title#Protocol_documentation&action#edit
-
 ## Common Structures
 
 ### Simple types
